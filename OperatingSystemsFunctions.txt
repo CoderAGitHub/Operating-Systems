@@ -1,1 +1,1 @@
-Test
+An operating system can determine the order of tasks that are processed. This is important because some tasks needs to be done first, so the other tasks can function properly. The first task an operating system does is turning on the computer once the power button is pressed.
